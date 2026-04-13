@@ -29,6 +29,6 @@ for i in range(50):
         print("Opção inválida, resposta não contabilizada.")
 
 # Resultados finais
-print("\n===== RESULTADO DA PESQUISA =====")
+print("\RESULTADO DA PESQUISA")
 print("Quantidade de respostas EXCELENTE:", excelente)
 print("Quantidade de respostas RUIM:", ruim)
